@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+  #img{
+    width: 100%;
+    display: block;
+
+  }
+  .main{
+    background-color:hsl(294, 50%, 75%) ;
+    text-align:center ;
+    line-height: 1.5;
+    height: 300px;
+    background: linear-gradient(to top, #f0d3ec, #d079d3);
+  }
+  
+  #t1{
+       padding: 40px o 10px;
+  }
+
+  .inferior{
+    background: linear-gradient(to top, #e4d9e4, #f8cff8);
+    
+  
+  }
+
+  .texto{
+    
+    width:45% ;
+    display:inline-block;
+    margin: 20px 0 0 20px;
+    vertical-align: top;
+  }
+
+  .img2{
+    width:45% ;
+    margin: 30px 0 30px 40px;
+  }
+#t2{ 
+  font-size :22 px;
+  margin : 0 0 10px o;
+  }
+
+  footer{
+    text-align:center;
+    background: linear-gradient(to top, #e46ed2, #e88feb);
+    color: #d4c9c9;
+    line-height: 1.8 ;
+    padding: 50px;
+  }
+
+  #copy{
+    margin: 40px;
+    font-size: 14px;
+  }
